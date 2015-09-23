@@ -18,7 +18,7 @@ Col 2: activity - A description of the activity the subject was doing when measu
 
 Col 3-68: The average of each feature for the given activity and subject.
 
-Description of Variables
+Description of Features:
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
