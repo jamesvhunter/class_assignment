@@ -10,6 +10,11 @@ The run_analysis script performs the following actions:
   4. Appropriately labels the data set with descriptive variable names. 
   5. Creates an independent tidy data set with the average of each variable for each activity and each subject.
 
+To view the output of run_analysis.R script. Run script and use the following code: 
+
+> data <- read.table(file_path, header = TRUE) 
+> View(summary_df)
+
 A description of the output of run_analysis.R script. The output is a dataframe called summary_df with 180 observations and 68 variables. The output is a tidy data set with each variable measured in a column and every observation is a row. 
 
 Var 1: subject - A unique identifier for each subject in the study
