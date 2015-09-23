@@ -10,13 +10,13 @@ The run_analysis script performs the following actions:
   4. Appropriately labels the data set with descriptive variable names. 
   5. Creates an independent tidy data set with the average of each variable for each activity and each subject.
 
-A description of the output of run_analysis.R script.
+A description of the output of run_analysis.R script. The output is a dataframe called summary_df with 180 observations and 68 variables. 
 
-Col 1: subject - A unique identifier for each subject in the study
+Var 1: subject - A unique identifier for each subject in the study
 
-Col 2: activity - A description of the activity the subject was doing when measurement was taken. Each person performed six activities (WALKING,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
+Var 2: activity - A description of the activity the subject was doing when measurement was taken. Each person performed six activities (WALKING,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
-Col 3-68: The average of each feature for the given activity and subject.
+Var 3-68: The average value of each feature for the given activity and subject.
 
 Description of Features:
 
@@ -45,3 +45,5 @@ The set of variables that were estimated from these signals are:
 
 mean(): Mean value
 std(): Standard deviation
+
+For a full summary of features and experiment, refer to documenation included in Samsung Files. 
