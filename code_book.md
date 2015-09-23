@@ -1,4 +1,4 @@
-<h1> Code Book 
+<h1> Code Book</h1>
 
 1 subject: Numbered 1-30 to represent each of the 30 volunteers within an age bracket of 19-48 years who participated in the study
 
