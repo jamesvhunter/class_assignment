@@ -1,53 +1,101 @@
-# Code Book 
+<h1> Code Book 
 
 1 subject: Numbered 1-30 to represent each of the 30 volunteers within an age bracket of 19-48 years who participated in the study
+
 2 activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 3 "tBodyAcc.mean...X" "the average value of tBodyAcc.mean...X"
+
 4 "tBodyAcc.mean...Y" "the average value of tBodyAcc.mean...Y"
+
 5 "tBodyAcc.mean...Z" "the average value of tBodyAcc.mean...Z"
+
 6 "tBodyAcc.std...X" "the average value of tBodyAcc.std...X"
+
 7 "tBodyAcc.std...Y" "the average value of tBodyAcc.std...Y"
+
 8 "tBodyAcc.std...Z" "the average value of tBodyAcc.std...Z"
+
 9 "tGravityAcc.mean...X" "the average value of tGravityAcc.mean...X"
+
 10 "tGravityAcc.mean...Y" "the average value of tGravityAcc.mean...Y"
+
 11 "tGravityAcc.mean...Z" "the average value of tGravityAcc.mean...Z"
+
 12 "tGravityAcc.std...X" "the average value of tGravityAcc.std...X"
+
 13 "tGravityAcc.std...Y" "the average value of tGravityAcc.std...Y"
+
 14 "tGravityAcc.std...Z" "the average value of tGravityAcc.std...Z"
+
 15 "tBodyAccJerk.mean...X" "the average value of tBodyAccJerk.mean...X"
+
 16 "tBodyAccJerk.mean...Y" "the average value of tBodyAccJerk.mean...Y"
+
 17 "tBodyAccJerk.mean...Z" "the average value of tBodyAccJerk.mean...Z"
+
 18 "tBodyAccJerk.std...X" "the average value of tBodyAccJerk.std...X"
+
 19 "tBodyAccJerk.std...Y" "the average value of tBodyAccJerk.std...Y"
+
 20 "tBodyAccJerk.std...Z" "the average value of tBodyAccJerk.std...Z"
+
 21 "tBodyGyro.mean...X" "the average value of tBodyGyro.mean...X"
+
 22 "tBodyGyro.mean...Y" "the average value of tBodyGyro.mean...Y"
+
 23 "tBodyGyro.mean...Z" "the average value of tBodyGyro.mean...Z"
+
 24 "tBodyGyro.std...X" "the average value of tBodyGyro.std...X"
+
 25 "tBodyGyro.std...Y" "the average value of tBodyGyro.std...Y"
+
 26 "tBodyGyro.std...Z" "the average value of tBodyGyro.std...Z"
+
 27 "tBodyGyroJerk.mean...X" "the average value of tBodyGyroJerk.mean...X"
+
 28 "tBodyGyroJerk.mean...Y" "the average value of tBodyGyroJerk.mean...Y"
+
 29 "tBodyGyroJerk.mean...Z" "the average value of tBodyGyroJerk.mean...Z"
+
 30 "tBodyGyroJerk.std...X" "the average value of tBodyGyroJerk.std...X"
+
 31 "tBodyGyroJerk.std...Y" "the average value of tBodyGyroJerk.std...Y"
+
 32 "tBodyGyroJerk.std...Z" "the average value of tBodyGyroJerk.std...Z"
+
 33 "tBodyAccMag.mean.." "the average value of tBodyAccMag.mean.."
+
 34 "tBodyAccMag.std.." "the average value of tBodyAccMag.std.."
+
 35 "tGravityAccMag.mean.." "the average value of tGravityAccMag.mean.."
+
 36 "tGravityAccMag.std.." "the average value of tGravityAccMag.std.."
+
 37 "tBodyAccJerkMag.mean.." "the average value of tBodyAccJerkMag.mean.."
+
 38 "tBodyAccJerkMag.std.." "the average value of tBodyAccJerkMag.std.."
+
 39 "tBodyGyroMag.mean.." "the average value of tBodyGyroMag.mean.."
+
 40 "tBodyGyroMag.std.." "the average value of tBodyGyroMag.std.."
+
 41 "tBodyGyroJerkMag.mean.." "the average value of tBodyGyroJerkMag.mean.."
+
 42 "tBodyGyroJerkMag.std.." "the average value of tBodyGyroJerkMag.std.."
+
 43 "fBodyAcc.mean...X" "the average value of fBodyAcc.mean...X"
+
 44 "fBodyAcc.mean...Y" "the average value of fBodyAcc.mean...Y"
+
 45 "fBodyAcc.mean...Z" "the average value of fBodyAcc.mean...Z"
+
 46 "fBodyAcc.std...X" "the average value of fBodyAcc.std...X"
+
 47 "fBodyAcc.std...Y" "the average value of fBodyAcc.std...Y"
+
 48 "fBodyAcc.std...Z" "the average value of fBodyAcc.std...Z"
+
 
 
 ** More details**
